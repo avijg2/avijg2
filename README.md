@@ -7,6 +7,10 @@ I'm an end-to-end data scientist and ML / AI engineer — I work across quant re
 - 💼 Data Scientist at Dell Technologies for 2 years
 - 🎯 Interested in quant finance, and in Forward Deployed Engineer / AI Engineer roles
 
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avij-gupta-4700001b7/)
+
 ## Featured projects
 
 | Project | What it is | Highlights |
