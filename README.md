@@ -36,6 +36,3 @@ Every project above is built, tested, and documented end to end — data pipelin
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avijg2&show_icons=true&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijg2&layout=compact&theme=default)
 
-## Beyond code
-
-Dancer and singer, love travelling — I once did a Princeton hackathon, explored NYC, then came straight back to UIUC and gave 3 exams in 5 days.
